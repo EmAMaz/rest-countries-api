@@ -1,0 +1,8 @@
+.cadaUno{
+    display: flex;
+    flex-direction: row;
+}
+.imgBandera{
+    width: 320px;
+    height: 200px;
+}
